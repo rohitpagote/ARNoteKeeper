@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "837714137167",
+    "project_id": "arnotekeeper",
+    "storage_bucket": "arnotekeeper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837714137167:android:1e0ba35b565fa2dd905a3a",
+        "android_client_info": {
+          "package_name": "com.sbj.arnotekeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837714137167-9n01o8ljrgmdqig1h7hrolj32g0lqg7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sbj.arnotekeeper",
+            "certificate_hash": "3a1766dc8329ffe39627a40cebd63f1aa0113071"
+          }
+        },
+        {
+          "client_id": "837714137167-oml7qehoaqa33cjstj7ljtjv98o1jd7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sbj.arnotekeeper",
+            "certificate_hash": "bad1ac1eed6684de1d6d1c64f5dcc3e959587646"
+          }
+        },
+        {
+          "client_id": "837714137167-eebemi115gnse0eljhu08bfkspmeqlfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiue74KNiH__RVW9d-Ly44_L6Cr2BCmuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837714137167-eebemi115gnse0eljhu08bfkspmeqlfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
